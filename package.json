@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "test": "echo 'no tests yet'"
+    "test": "exit 1"
   }
 }
